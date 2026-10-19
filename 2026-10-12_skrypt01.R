@@ -4,3 +4,6 @@
 
 # Instalacja paczki
 install.packages("padr")
+
+# A tutaj dopiszemy kolejny komentarz
+# Git będzie widział różnicę
